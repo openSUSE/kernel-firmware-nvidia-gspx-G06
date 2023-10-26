@@ -1,4 +1,11 @@
 -------------------------------------------------------------------
+Wed Jul 26 10:35:36 UTC 2023 - Stefan Dirsch <sndirsch@suse.com>
+
+- Obsoletes conflicting kernel-firmware-nvidia-gsp-G06 = 535.86.05
+  (boo#1212724)
+- minor cleanup in specfile
+
+-------------------------------------------------------------------
 Wed Jul 26 08:32:51 UTC 2023 - Stefan Dirsch <sndirsch@suse.com>
 
 - remove conflicts from previous change again, since this likely

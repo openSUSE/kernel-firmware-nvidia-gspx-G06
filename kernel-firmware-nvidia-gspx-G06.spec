@@ -40,11 +40,11 @@ Source1:        NVIDIA-Linux-aarch64-%{version}.run
 NoSource:       0
 %if 0%{simpletest} == 1
 Source2:        %{name}-rpmlintrc
-ExclusiveArch:  x86_64 aarch64
 %else
-ExclusiveArch:  x86_64 aarch64
 Provides:       multiversion(kernel)
 %endif
+ExclusiveArch:  x86_64 aarch64
+Obsoletes:      kernel-firmware-nvidia-gsp-G06 = 535.86.05
 
 %description
 This package contains the versioned kernel firmware file "gsp.bin" for
