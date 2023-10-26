@@ -1,4 +1,10 @@
 -------------------------------------------------------------------
+Wed Jul 26 08:32:51 UTC 2023 - Stefan Dirsch <sndirsch@suse.com>
+
+- remove conflicts from previous change again, since this likely
+  would break QA test for sle again ... 
+
+-------------------------------------------------------------------
 Wed Jul 26 08:17:24 UTC 2023 - Stefan Dirsch <sndirsch@suse.com>
 
 - added conflicts to kernel-firmware-nvidia-gsp-G06 package 
