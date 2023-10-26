@@ -1,4 +1,9 @@
 -------------------------------------------------------------------
+Wed Jul 26 08:17:24 UTC 2023 - Stefan Dirsch <sndirsch@suse.com>
+
+- added conflicts to kernel-firmware-nvidia-gsp-G06 package 
+
+-------------------------------------------------------------------
 Tue Jul 25 12:45:57 UTC 2023 - Stefan Dirsch <sndirsch@suse.com>
 
 - one-time rename to kernel-firmware-nvidia-gspx-G06 to workaround

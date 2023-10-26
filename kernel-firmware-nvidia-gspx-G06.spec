@@ -45,6 +45,7 @@ ExclusiveArch:  x86_64 aarch64
 ExclusiveArch:  x86_64 aarch64
 Provides:       multiversion(kernel)
 %endif
+Conflicts:      kernel-firmware-nvidia-gsp-G06
 
 %description
 This package contains the versioned kernel firmware file "gsp.bin" for
