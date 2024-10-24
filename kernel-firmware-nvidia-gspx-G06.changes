@@ -1,4 +1,25 @@
 -------------------------------------------------------------------
+Wed Oct 23 10:44:48 UTC 2024 - Stefan Dirsch <sndirsch@suse.com>
+
+- For CUDA update version to 560.35.03 (again) 
+
+-------------------------------------------------------------------
+Wed Oct 23 03:29:58 UTC 2024 - Stefan Dirsch <sndirsch@suse.com>
+
+- Update to 550.127.05 (boo#1232057)
+
+-------------------------------------------------------------------
+Thu Sep 26 14:26:48 UTC 2024 - Stefan Dirsch <sndirsch@suse.com>
+
+- use SUSE-Firmware as License tag in specfile
+
+-------------------------------------------------------------------
+Thu Sep 26 13:21:06 UTC 2024 - Stefan Dirsch <sndirsch@suse.com>
+
+- switch to official license for NVIDIA firmware files
+  --> https://git.kernel.org/pub/scm/linux/kernel/git/firmware/linux-firmware.git/tree/LICENCE.nvidia
+
+-------------------------------------------------------------------
 Fri Sep 20 13:18:21 UTC 2024 - Stefan Dirsch <sndirsch@suse.com>
 
 - Update to 550.120 (boo#1230779)
